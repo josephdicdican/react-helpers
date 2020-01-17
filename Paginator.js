@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Pagination from '../../../store/reducers/InitialState/Pagination';
+import Pagination from './Pagination';
 import _ from 'underscore';
 
 class Paginator extends Component {
